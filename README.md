@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Sanofer
+ About Me:
+ - 👋 Hi, I’m Sanofer
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Full Stack Development Program
 - 💞️ I’m looking to collaborate on Web Development Projects
